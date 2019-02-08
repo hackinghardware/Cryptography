@@ -17,7 +17,7 @@ Por ejemplo: flag{378041508fcb2574e1724f8917369be9}
 
 -------------
 
-Reto II 
+Reto II
 Dificultad
 
 La contraseña para superar este reto es: Somos Anonymous, somos legión, no perdonamos, no olvidamos, espéranos
@@ -28,7 +28,7 @@ Tendrás que calcular su hash sha256 y posteriormente calcular su md5 para poder
 ------
 
 
-Reto III 
+Reto III
 Dificultad
 
 Para superar este reto deberás calcular la cadena de texto cuyo hash md5 se corresponde con el siguiente: 54f662a095fa3d5fbbdaac72d176701b
@@ -69,3 +69,9 @@ Para pasar este reto deberás decodificar la siguiente cadena hexadecimal:
 50617373776f72643a2044346d7054686548337821
 
 
+----------
+Reto VII
+
+Descarga el archivo que se encuentra en la carpeta "Reto 6" y cosigue la bandera
+
+Pista: Una imagen vale más que mil caracteres
