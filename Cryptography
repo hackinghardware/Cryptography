@@ -1,24 +1,20 @@
 
 Reto I
 
-Dificultad
-
-
+Dificultad: 0
 
 La contraseña para superar este reto es: la desconfianza es la madre de la seguridad
 
-
-
 Tendrás que calcular su hash md5 y ponerla en el formato de la plataforma, esto es: flag{md5}
-
 
 Por ejemplo: flag{378041508fcb2574e1724f8917369be9}
 
 
 -------------
 
+
 Reto II
-Dificultad
+Dificultad: 0
 
 La contraseña para superar este reto es: Somos Anonymous, somos legión, no perdonamos, no olvidamos, espéranos
 
@@ -29,15 +25,16 @@ Tendrás que calcular su hash sha256 y posteriormente calcular su md5 para poder
 
 
 Reto III
-Dificultad
+Dificultad: 0
 
 Para superar este reto deberás calcular la cadena de texto cuyo hash md5 se corresponde con el siguiente: 54f662a095fa3d5fbbdaac72d176701b
 
 
 ------
 
+
 Reto IV
-Dificultad
+Dificultad: 0
 
 El código ASCII reserva los primeros 32 códigos (numerados del 0 al 31 en decimal) para caracteres de control: códigos no pensados originalmente para representar información imprimible, sino para controlar dispositivos (como impresoras) que usaban ASCII.
 
@@ -50,19 +47,20 @@ Para pasar este reto deberás encontrar los caracteres correspondientes a la sig
 
 .........
 
+
 Reto V
-Dificultad
+Dificultad: 0
 
 Para superar este reto tendrás que descodificar la contraseña en el formato de la plataforma, esto es: flag{md5}
 
 TG9zIHZlcmRhZGVyb3MgaGFja2VycyBzaWd1ZW4gdW4gY2llcnRvIGNvbmp1bnRvIGRlIHJlZ2xhcyDDqXRpY2FzLCBxdWUgbGVzIGltcGlkZW4gbHVjcmFyc2UgbyBjYXVzYXIgZGHDsW8gZW4gc3VzIGFjdGl2aWRhZGVz
 
 
-
-
 ----------
+
+
 Reto VI
-Dificultad
+Dificultad: 0
 
 Para pasar este reto deberás decodificar la siguiente cadena hexadecimal:
 
@@ -70,7 +68,10 @@ Para pasar este reto deberás decodificar la siguiente cadena hexadecimal:
 
 
 ----------
+
+
 Reto VII
+Dificultad: 1
 
 Descarga el archivo que se encuentra en la carpeta "Reto 6" y cosigue la bandera
 
