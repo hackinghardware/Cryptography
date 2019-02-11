@@ -18,7 +18,7 @@ Dificultad: 0
 
 La contraseña para superar este reto es: Somos Anonymous, somos legión, no perdonamos, no olvidamos, espéranos
 
-Tendrás que calcular su hash sha256 y posteriormente calcular su md5 para poder poner la solución en el formato de la plataforma, esto es: flag{md5}
+Tendrás que calcular su hash sha256 y posteriormente calcular su md5.
 
 
 ------
@@ -27,7 +27,7 @@ Tendrás que calcular su hash sha256 y posteriormente calcular su md5 para poder
 Reto III
 Dificultad: 0
 
-Para superar este reto deberás calcular la cadena de texto cuyo hash md5 se corresponde con el siguiente: 54f662a095fa3d5fbbdaac72d176701b
+Para superar este reto deberás calcular la cadena de texto cuyo hash SHA512 y calcular su MD5. La cadena corresponde con el siguiente: A48A79327686CE5FA6860ACE67A5BF51C61BC88147CA65AAA5020E28CCB3A29FBD0C3DC75EDF50A697C38AA340C8B5F60713CB6BFF3CBDA63C4DBC3AF606E798
 
 
 ------
@@ -51,7 +51,7 @@ Para pasar este reto deberás encontrar los caracteres correspondientes a la sig
 Reto V
 Dificultad: 0
 
-Para superar este reto tendrás que descodificar la contraseña en el formato de la plataforma, esto es: flag{md5}
+Para superar este reto tendrás que descodificar la contraseña de nitendo 64:
 
 TG9zIHZlcmRhZGVyb3MgaGFja2VycyBzaWd1ZW4gdW4gY2llcnRvIGNvbmp1bnRvIGRlIHJlZ2xhcyDDqXRpY2FzLCBxdWUgbGVzIGltcGlkZW4gbHVjcmFyc2UgbyBjYXVzYXIgZGHDsW8gZW4gc3VzIGFjdGl2aWRhZGVz
 
@@ -83,9 +83,14 @@ Reto VIII
 
 Ayúda a Cesar a descifrar el siguiente mensaje para encontrar el flag que te conduzca al siguiente nivel:
 
-Rpnd Yjaxd Réhpg, fjt th jcd st adh igth báh vgpcsth rpexipcth st ap Wxhidgxp rdc Patypcsgd Bpvcd n rdc Cpedatóc, th ipbqxéc jcd st adh igth báh rdchxstgpqath wxhidgxpsdgth apixcdh, rdc Rpnd Rgxhed Hpajhixd n rdc Ixid Axkxd, udgbpcsd ta tytbeapg igxjckxgpid sta etgídsd raáhxrd edg tmrtatcrxp, etgídsd ktgspstgpbtcit «ájgtd» st aph atigph apixcph.
-
-Hx wph advgpsd aatvpg wphip pfjí, ij gtrdbetchp htgá ap st hpqtg fjt ap rdcigphtñp epgp hjetgpg thit gtid th Ratdepigp. N Yjaxd Réhpg th idsd thid, ixtct ipa hxvcxuxrprxóc, egtrxhpbtcit rdbd wxhidgxpsdg st hí bxhbd, cpggpsdg st hjh egdexph wpopñph vjtggtgph n st hj edaíixrp.
+Rpnd Yjaxd Réhpg, fjt th jcd st adh igth báh vgpcsth rpexipcth st ap Wxhidgxp 
+rdc Patypcsgd Bpvcd n rdc Cpedatóc, th ipbqxéc jcd st adh igth báh rdchxstgpqath 
+wxhidgxpsdgth apixcdh, rdc Rpnd Rgxhed Hpajhixd n rdc Ixid Axkxd, udgbpcsd ta 
+tytbeapg igxjckxgpid sta etgídsd raáhxrd edg tmrtatcrxp, etgídsd ktgspstgpbtcit 
+«ájgtd» st aph atigph apixcph. Hx wph advgpsd aatvpg wphip pfjí, ij gtrdbetchp 
+htgá ap st hpqtg fjt ap rdcigphtñp epgp hjetgpg thit gtid th Ratdepigp. N Yjaxd 
+Réhpg th idsd thid, ixtct ipa hxvcxuxrprxóc, egtrxhpbtcit rdbd wxhidgxpsdg st hí 
+bxhbd, cpggpsdg st hjh egdexph wpopñph vjtggtgph n st hj edaíixrp.
 
 --------
 
