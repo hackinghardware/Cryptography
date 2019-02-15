@@ -125,9 +125,19 @@ foto: https://drive.google.com/file/d/1m7Xd8KnPXnPNGvMppGVsj4KHBegVBKbg/view
 --------
 
 
+En el ámbito de la teoría de la información la entropía mide la incertidumbre de una fuente de información. La entropía también se 
+puede considerar como la cantidad de información promedio que contienen los símbolos usados. Los símbolos con menor 
+probabilidad son los que aportan mayor información. Llevando este concepto al campo informático, podemos decir que un fichero
+tiene una entropía alta (yendo ésta de 0 a 8), cuando sus bytes son más hetereogéneos entre sí. Esto es especialmente interesante en 
+seguridad informática porque los ficheros con una entropía muy alta (cerca de 8) suelen ser ficheros cifrados o comprimidos.
+
+Tu mision es encontrar cuál de las imágenes adjuntas tiene la mayor entropía. 
+La solución al reto es el nombre del fichero de la imagen (incluyendo la extensión) en el formato habitual de la 
+plataforma (por ejemplo: imagen25.jpg).
 
 
 
+https://drive.google.com/open?id=11PbxFmKLQ4WLzI369oc4jHh-Xq11I50L
 
 
 
