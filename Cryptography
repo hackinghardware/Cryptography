@@ -73,7 +73,7 @@ Para pasar este reto deberás decodificar la siguiente cadena hexadecimal:
 Reto VII
 Dificultad: 1
 
-Descarga el archivo que se encuentra en la carpeta "Reto 6" y cosigue la bandera
+Descarga el archivo que se encuentra en la carpeta "Reto 7" y cosigue la bandera
 
 Pista: Una imagen vale más que mil caracteres
 
@@ -84,13 +84,13 @@ Dificultad: 0
 
 Ayúda a Cesar a descifrar el siguiente mensaje para encontrar el flag que te conduzca al siguiente nivel:
 
-Rpnd Yjaxd Réhpg, fjt th jcd st adh igth báh vgpcsth rpexipcth st ap Wxhidgxp 
-rdc Patypcsgd Bpvcd n rdc Cpedatóc, th ipbqxéc jcd st adh igth báh rdchxstgpqath 
-wxhidgxpsdgth apixcdh, rdc Rpnd Rgxhed Hpajhixd n rdc Ixid Axkxd, udgbpcsd ta 
-tytbeapg igxjckxgpid sta etgídsd raáhxrd edg tmrtatcrxp, etgídsd ktgspstgpbtcit 
-«ájgtd» st aph atigph apixcph. Hx wph advgpsd aatvpg wphip pfjí, ij gtrdbetchp 
-htgá ap st hpqtg fjt ap rdcigphtñp epgp hjetgpg thit gtid th Ratdepigp. N Yjaxd 
-Réhpg th idsd thid, ixtct ipa hxvcxuxrprxóc, egtrxhpbtcit rdbd wxhidgxpsdg st hí 
+Rpnd Yjaxd Réhpg, fjt th jcd st adh igth báh vgpcsth rpexipcth st ap Wxhidgxp
+rdc Patypcsgd Bpvcd n rdc Cpedatóc, th ipbqxéc jcd st adh igth báh rdchxstgpqath
+wxhidgxpsdgth apixcdh, rdc Rpnd Rgxhed Hpajhixd n rdc Ixid Axkxd, udgbpcsd ta
+tytbeapg igxjckxgpid sta etgídsd raáhxrd edg tmrtatcrxp, etgídsd ktgspstgpbtcit
+«ájgtd» st aph atigph apixcph. Hx wph advgpsd aatvpg wphip pfjí, ij gtrdbetchp
+htgá ap st hpqtg fjt ap rdcigphtñp epgp hjetgpg thit gtid th Ratdepigp. N Yjaxd
+Réhpg th idsd thid, ixtct ipa hxvcxuxrprxóc, egtrxhpbtcit rdbd wxhidgxpsdg st hí
 bxhbd, cpggpsdg st hjh egdexph wpopñph vjtggtgph n st hj edaíixrp.
 
 --------
@@ -98,7 +98,7 @@ bxhbd, cpggpsdg st hjh egdexph wpopñph vjtggtgph n st hj edaíixrp.
 Reto IX
 Dificultad: 0
 
-Pista: Monoalphabetic 
+Pista: Monoalphabetic
 
 teverkevmgyxmvmqmgyevs   N=22
 
@@ -117,22 +117,23 @@ Descarga el archivo que se encuentra en la carpeta "IX" y cosigue la bandera
 Reto XI
 Dificultad: 0
 
-Bart simpson  no asistio a clase por ir a un concierto de rap, pero alguien lo delato con skinner. Bart esta moleto y quiere saber quien lo delato, 
+Bart simpson  no asistio a clase por ir a un concierto de rap, pero alguien lo delato con skinner. Bart esta moleto y quiere saber quien lo delato,
 por eso necesita tu ayuda. Tu misión es encontrar al delator, pero tu unica pista es una foto de bart en el concierto.
 
 foto: https://drive.google.com/file/d/1m7Xd8KnPXnPNGvMppGVsj4KHBegVBKbg/view
 
 --------
+Reto XII
+Dificultad: 0
 
-
-En el ámbito de la teoría de la información la entropía mide la incertidumbre de una fuente de información. La entropía también se 
-puede considerar como la cantidad de información promedio que contienen los símbolos usados. Los símbolos con menor 
+En el ámbito de la teoría de la información la entropía mide la incertidumbre de una fuente de información. La entropía también se
+puede considerar como la cantidad de información promedio que contienen los símbolos usados. Los símbolos con menor
 probabilidad son los que aportan mayor información. Llevando este concepto al campo informático, podemos decir que un fichero
-tiene una entropía alta (yendo ésta de 0 a 8), cuando sus bytes son más hetereogéneos entre sí. Esto es especialmente interesante en 
+tiene una entropía alta (yendo ésta de 0 a 8), cuando sus bytes son más hetereogéneos entre sí. Esto es especialmente interesante en
 seguridad informática porque los ficheros con una entropía muy alta (cerca de 8) suelen ser ficheros cifrados o comprimidos.
 
-Tu mision es encontrar cuál de las imágenes adjuntas tiene la mayor entropía. 
-La solución al reto es el nombre del fichero de la imagen (incluyendo la extensión) en el formato habitual de la 
+Tu mision es encontrar cuál de las imágenes adjuntas tiene la mayor entropía.
+La solución al reto es el nombre del fichero de la imagen (incluyendo la extensión) en el formato habitual de la
 plataforma (por ejemplo: imagen25.jpg).
 
 
@@ -140,5 +141,47 @@ plataforma (por ejemplo: imagen25.jpg).
 https://drive.google.com/open?id=11PbxFmKLQ4WLzI369oc4jHh-Xq11I50L
 
 
+--------
+Reto XIII
+Dificultad: 1
 
+Llego a casa después de currar, cansado del día y por haber dormido unas pocas horas. Ahí está la culpable, una cosa pequeña que me hecha los brazos deseando que la coja y que juegue con ella. En seguida suelto los bártulos y me pongo a hacer el tonto con ella. Si me vierais o escucharais seguro que pensaríais que estoy gilipollas:
 
+¡Hola bebé!
+pa-pá-pa-pá...
+¿qué quiere mi bebé?
+¿quieres jugar con papi?
+ajooo...
+¿qué te pasa?
+¿quieres el chupete?
+
+Y ella por un momento pone cara de póquer, como si estuviera intentando comprender lo que le digo. Me pongo en su lugar y me imagino lo que debe estar realmente entendiendo:
+
+¡Fqdm puxé!
+bs-lá-xy-lá...
+¿uké wqyedy ok tqhé?
+¿awycrqc vyskr gof lslo?
+qpwoy...
+¿awé bw xymu?
+¿awycrqw gv shihkbw?
+
+Y después de aguantar durante un rato mis tonterías se revela, me interrumpe enfadada y me replica con un incomprensible balbuceo:
+
+So kycsé...
+¡zatg za jaukr qf rsvna i sáefoqso qm cl xyñiz!
+
+¿Puedes ayudarme a entender lo que me dice mi bebé?
+
+Pistas:
+1. Puedes usar la herramienta de: https://www.cryptool.org/de/ct1-downloads
+2. Referencia: https://es.wikipedia.org/wiki/Criptoan%C3%A1lisis
+
+--------
+Reto XIV
+Dificultad: 1
+
+Nos ha llegado un mensaje que no logramos entender, por favor ayudanos a saber que dice.
+
+qv ah pfsix xi wm ughgsm, lk wyja vugfcq vu kytqzu ugzdlglqp, zw nu qfopu nmpyxu kyp hqbíu yy tqjupra lk fsd pm rurkm mt uweutryvz, mlglkl mvzckfm, zuwír qxiii c rmtmi gzdzkxsc. gvg ipwm lk upra uáy penm yay gldvkls, dmtvcgóy xiy gáw yaknyw, ogmriw j cckvvlzbum pze aáhuhze, tkhxpviy fsd hqklrpe, iraúr amtugmya lk uñeoulale waa jiqtzoum, gzzaagíey xiy nvpe xglxpe lk my smkoyrom. tg wsyfzgmiñl bixu wfbmxuv px zkns pe zuwmymvzy. iw dmyns oqtru gzzkroíey eiei hp hmruveq, kgfdle lk piwxcji tldi ruw qumyned owt myd bitnyqxwy xi wa uomqz, xwy xíed pm khxcq akgeym ak bsydihu gzz aa piwxwxc hp xw sám jtzw. zyríl qv yo glei ahe lyi woi amagve oq tum gfmzkhxl, k ctu wznzohe bgm ti pwqogve l xwy pitzbk, s yy ywfi hp oisjs j btgte, bgm gmí iyeqrfemm mr lsníz kugs eaugve wm xuxeoqzg. zvteihu pl qlgx hp zckmxca poxewsw iir waa icrngmtne lñaa, kle oq kugtwqfoóh vpoqg, mina lk weczmy, yrugbu xi caazls; rdit geodcmuhzd g ggmra lk fe nmhg. kytqzkh hpoqx kyp fmtíu iw ewhliyauhli oq yacnlpi u kypeiju (ufq mt ywea pgs ewsctu htrmxyrnui kh pze ianscqa woi oqazy glew kmgcujkh), efzyay tzd kuhnpfcxuw gqzumíqtxmy mi oqrg yreqvjyv bgm yy pwmug kytvitu; tpdw kmxz uuvivem xuws l zckmxca kayrea; jgmxl cck yr wm vglvloqót xép ya ak mewsi ah tfzbu xi wm dklhlp.
+
+Pista: Vigenere
