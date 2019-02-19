@@ -1,6 +1,5 @@
 
 Reto I
-
 Dificultad: 0
 
 La contraseña para superar este reto es: la desconfianza es la madre de la seguridad
@@ -8,7 +7,6 @@ La contraseña para superar este reto es: la desconfianza es la madre de la segu
 Tendrás que calcular su hash md5 y ponerla en el formato de la plataforma, esto es: flag{md5}
 
 Por ejemplo: flag{378041508fcb2574e1724f8917369be9}
-
 
 -------------
 
@@ -20,15 +18,12 @@ La contraseña para superar este reto es: Somos Anonymous, somos legión, no per
 
 Tendrás que calcular su hash sha256 y posteriormente calcular su md5.
 
-
 ------
-
 
 Reto III
 Dificultad: 0
 
-Para superar este reto deberás calcular la cadena de texto cuyo hash SHA512 y calcular su MD5. La cadena corresponde con el siguiente: A48A79327686CE5FA6860ACE67A5BF51C61BC88147CA65AAA5020E28CCB3A29FBD0C3DC75EDF50A697C38AA340C8B5F60713CB6BFF3CBDA63C4DBC3AF606E798
-
+Para superar este reto deberás calcular la cadena de texto cuyo hash SHA512. La cadena corresponde con el siguiente: A48A79327686CE5FA6860ACE67A5BF51C61BC88147CA65AAA5020E28CCB3A29FBD0C3DC75EDF50A697C38AA340C8B5F60713CB6BFF3CBDA63C4DBC3AF606E798
 
 ------
 
@@ -51,7 +46,7 @@ Para pasar este reto deberás encontrar los caracteres correspondientes a la sig
 Reto V
 Dificultad: 0
 
-Para superar este reto tendrás que descodificar la contraseña de nitendo 64:
+Para superar este reto tendrás que decodificar la contraseña de nintendo 64:
 
 TG9zIHZlcmRhZGVyb3MgaGFja2VycyBzaWd1ZW4gdW4gY2llcnRvIGNvbmp1bnRvIGRlIHJlZ2xhcyDDqXRpY2FzLCBxdWUgbGVzIGltcGlkZW4gbHVjcmFyc2UgbyBjYXVzYXIgZGHDsW8gZW4gc3VzIGFjdGl2aWRhZGVz
 
